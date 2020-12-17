@@ -2,7 +2,7 @@
 
 >A static web page built with only HTML, CSS & JavaScript. Gmail style interaction for holding shift while select checkboxes
 
-[![screen shot](./publicjs30checkbox.png)()]
+![screen shot](https://github.com/AnisyaPurnama/JS30-checkboxes-challenge/blob/master/public/js30checkbox.png?raw=true)
 
 [*live link*](https://anisyapurnama.github.io/JS30-checkboxes-challenge/.)
 
